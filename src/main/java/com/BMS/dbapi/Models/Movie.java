@@ -28,5 +28,4 @@ public class Movie {
     int totalReviewVotes;
     String language;
 
-
 }
